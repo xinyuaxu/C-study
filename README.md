@@ -1,2 +1,1 @@
-# probable-octo-fortnight
-c/c++ s study
+用来存放c++学习过程中一些代码
